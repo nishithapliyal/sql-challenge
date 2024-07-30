@@ -27,4 +27,4 @@ For this project, you’ll design the tables to hold the data from the CSV files
 
 ## Entity Relationship Diagram
 
-![ERD for all tables]
+![ERD for all tables](https://github.com/nishithapliyal/sql-challenge/blob/main/EmployeeSQL/QuickDBD-export%20copy.png)
